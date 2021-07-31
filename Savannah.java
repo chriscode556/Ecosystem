@@ -10,13 +10,7 @@ import christ.core_java.lesson09.dao.AnimalDaoFactory;
 import christ.core_java.lesson09.dao.DaoFactory;
 import christ.core_java.lesson09.dao.DataStoreNotFoundException;
 
-/**
- * Savannah
- * 	lions, leopards, cheetahs, elephants, giraffes, zebras,  impalas, warthogs, springbok,
- *	gazelles, rhinocerous, hyenas, vultures, peacocks and flamingos
- *
- * @author Steve Montgomery
- * Last modified Mar 29, 2020
+
  */
 public class Savannah extends Ecosystem {
 //**************************** VARIABLES SECTION ******************************
