@@ -1,6 +1,6 @@
 package christ.core_java.common.ecosystem;
 
-//TODO: Add list of requirements for the project
+
 
 public class TestEcosystem {
 
