@@ -55,14 +55,6 @@ public class Savannah extends Ecosystem {
 		}
 	}
 
-	//TODO: Create a simulation of a pride lions hunting
-	
-	//TODO: Create a simulation of a cheetah hunting
-	
-	//TODO; Create a simulation of gazelles finding a herd of larger animals to trample tall grass
-	// so they can eat short grass
-	
-	// TODO: A second cheeta is nearby, what happens?
 
 	private void useFileDAO() {
 		DaoFactory factory = new AnimalDaoFactory();
